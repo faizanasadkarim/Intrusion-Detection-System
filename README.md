@@ -55,13 +55,11 @@ Evaluate the model using precision, recall, and accuracy metrics.
 Visualize results using Matplotlib and Seaborn.
 
 ## 📝 Example
-python
-copy
+```
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
-```bash
 # Load data
 data = pd.read_csv("network_traffic_data.csv")
 
