@@ -42,12 +42,10 @@ This project aims to address network security challenges by detecting and classi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/IDS-Network-Anomaly-Detection.git
-Install required dependencies:
+   git clone https://github.com/faizanasadkarim/Intrusion-Detection-System.git
 
-bash
-Copy
-pip install -r requirements.txt
+
+
 
 ## ⚡ Usage
 Load the preprocessed network traffic dataset.
